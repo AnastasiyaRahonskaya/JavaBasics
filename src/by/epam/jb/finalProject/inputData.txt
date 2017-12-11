@@ -1,0 +1,6 @@
+add_note/01.01.2017/hello world
+add_note/10.02.2017/hello idea
+find_by_date/01.01.2017
+find_note/hello
+delete_note/idea
+find_note/hello
